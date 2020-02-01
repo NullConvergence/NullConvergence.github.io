@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2020-01-31
 inline: true
 ---
 
-A simple inline announcement.
+I've published a .bib with the papers I cited over time on the topic of Adversarial examples.
+The list can be found in the repo as a .bib and compiled <a href="/related-work">here</a>
